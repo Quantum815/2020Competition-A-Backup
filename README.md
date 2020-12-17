@@ -1,2 +1,3 @@
 # 2020Competition-A-Backup
 2020年浙江省电子设计竞赛A题备份
+采用platformIO，STM32CubeMx和KeilMDK开发
